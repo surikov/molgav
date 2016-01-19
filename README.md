@@ -1,5 +1,5 @@
 # Molgav
-Web Audio Musical Step Sequencer for music exchange
+Web Audio Musical Step Sequencer for tunes exchange
 
 # Live application
 [molgav.nn.ru/rtfm/](http://molgav.nn.ru/rtfm/)
